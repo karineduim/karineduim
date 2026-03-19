@@ -2,7 +2,7 @@
 
 **`Designer com alma de desenvolvedora.`**
 
-Tenho 32 anos e sou do Rio de Janeiro. Formada em Designer Gráfico, e atualmente cursando Engenharia de Software. Sou apaixonada por tecnologia e design!
+Tenho 33 anos e sou do Rio de Janeiro. Formada em Designer Gráfico, e atualmente cursando Engenharia de Software. Sou apaixonada por tecnologia e design!
 
 
 <!-- Youtube -->
